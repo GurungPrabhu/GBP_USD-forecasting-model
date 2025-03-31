@@ -1,0 +1,9 @@
+my_dir
+venv
+__pycache__
+hyperband_tuning
+lstm_tuning
+dnn_cache
+output
+tuning
+venv/
