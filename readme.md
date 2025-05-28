@@ -1,11 +1,8 @@
-## Deep Learning assignment submission by Group 23 
-
-### Group members
-1.	Prabhu Gurung (K2463337)
-2.	Seyedmahdi Abdioskouei (K2500604)
-3.	Adharsh Vaiapuri (K2453494)
-4.	Avez Kazi (K2501085)
-
+## Develop GBP_USD forecasting Neural network model :
+- LSTM  
+- Deep Neural Network  
+- Recurrent Neural Network   
+- CNN LSTM ensemble model
 
 ### Environment Setup
 
